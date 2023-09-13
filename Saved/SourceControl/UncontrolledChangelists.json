@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/CS415_mp1/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/CS415_mp1/Content/InfiniteMatrix/Blueprints/BP_Ghost.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/CS415_mp1/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/CS415_mp1/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/CS415_mp1/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/GoldenApple/GoldenApple_Color.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/GoldenApple/golden_apple.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/GoldenApple/SM_GoldenApple.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/GoldenApple/GoldenApple_Metalic.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Hole.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Materials/MI_Tunnel.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Ghost.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/ghost_model_PhysicsAsset.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/ABP_Ghost.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/ghost_model_Skeleton.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/ghost_idle.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/black.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/eyes.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/eyes_ncl1_1.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/eyes_right.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/eyes_right_ncl1_1.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/ghost_die.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/ghost_model.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Ghost/Material.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/GoldenApple/golden_apple_apple.uasset",
+				"C:/Users/Victor/Documents/CLASSES/CS415_fa23/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/GoldenApple/golden_apple_Cylinder.uasset"
+			]
+		}
+	]
+}
